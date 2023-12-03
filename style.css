@@ -268,8 +268,8 @@ ul{
  
 }
 img{
-    height: 50px;
+    width: 200px;
+    height: 75px;
     align-content: center;
-    padding-top: 20px;
     display: flex;
 }
